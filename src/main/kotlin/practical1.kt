@@ -1,8 +1,8 @@
 fun main(){
     var a : Int = 52
     var b : Float = 42.25f
-    var c : Char = 'K'
-    var d : String = "Kenil Gor"
+    var c : Char = 'A'
+    var d : String = "Aryan Patel"
     var e : Boolean = true
     var f : Double = 452.2466
     var g : Long = 24821592155L
