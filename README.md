@@ -29,3 +29,6 @@ Question 9:
 
 Question 10:
 ![image](https://user-images.githubusercontent.com/82254519/186507015-5dd36e42-c862-4429-bd48-3f97eda21394.png)
+
+Question 11:
+![image](https://user-images.githubusercontent.com/82254519/186507818-288bd97f-25ce-4d08-8616-eaf6dc2f025a.png)
