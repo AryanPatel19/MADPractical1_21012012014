@@ -39,10 +39,10 @@ class Car(info:String,Owner:String,miles:Int,OGPrice:Double,currentPrice:Double)
 
 fun main() {
     println("Creating Car Class Object car1 in next line")
-    val car1 = Car("BMW, 2018","Aman",105, 10000.0,98950.0)
+    val car1 = Car("BMW, 2018","Aryan",105, 10000.0,98950.0)
     car1.displayCarInfo()
     println("Creating Car Class Object car2 in next line")
-    val car2 = Car("BMW, 2019","Karan",20, 400000.0,399800.0)
+    val car2 = Car("BMW, 2019","joyal",20, 400000.0,399800.0)
     car2.displayCarInfo()
 //    val car3 = Car("Toyota, 2017","KJS",100,1080000.0,1079000.0)
 //    val car4 = Car("Maruti, 2020","NPP",200,4000000.0,3998000.0)
